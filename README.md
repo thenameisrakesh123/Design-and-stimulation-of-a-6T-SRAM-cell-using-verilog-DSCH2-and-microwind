@@ -49,8 +49,8 @@ The detailed project report includes:
 ## 🤝 Contributions
 
 Designed and developed by:  
-*Rakesh Suramoni*
-*Kamalvignesh boina*
+*Rakesh Suramoni* |
+*Kamalvignesh boina*|
 *Jaya krishna*
 
 ---
