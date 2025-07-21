@@ -50,6 +50,8 @@ The detailed project report includes:
 
 Designed and developed by:  
 *Rakesh Suramoni*
+*Kamalvignesh boina*
+*Jaya krishna*
 
 ---
 
